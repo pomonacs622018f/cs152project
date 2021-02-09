@@ -11,9 +11,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Recipe Identifier
+## Application Project
 
 I’m interested in doing an application style project that takes a text file of recipes and/or ingredient lists, and uses a neural network to determine what the recipe makes. 
 
@@ -21,11 +20,11 @@ There are multiple difficulty and extension options that I have come up with. Th
 
 Applicable datasets already exist:
 
-https://www.kaggle.com/kaggle/recipe-ingredients-dataset?select=train.json
-https://www.kaggle.com/shuyangli94/food-com-recipes-and-user-interactions
 
-- Bulleted
-- List
+
+
+- [Ingredients only](https://www.kaggle.com/kaggle/recipe-ingredients-dataset?select=train.json) 
+- [Whole recipes](https://www.kaggle.com/shuyangli94/food-com-recipes-and-user-interactions)
 
 1. Numbered
 2. List
